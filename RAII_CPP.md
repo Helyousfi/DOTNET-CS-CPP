@@ -1,4 +1,4 @@
-# Key Principles of RAII:
+# Key Principles of RAII (Resource Acquisition Is Initialization):
 -  Initialization and Acquisition: Resources are acquired (allocated, opened, etc.) during object initialization (typically in the constructor).
 -  Release and Cleanup: Resources are released (deallocated, closed, etc.) in the object's destructor, ensuring cleanup happens automatically when the object goes out of scope or is destroyed.
 ```
