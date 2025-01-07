@@ -5,4 +5,5 @@
     - Un ensemble de langages de développement dont le langage C#, VB.NET (doivent respecter la spécification CLS common language spécification, les types de bases doievent respecter aussi le CTS common type system).
     - Un ensemble de classes de base utilisables à partir des programmes dévelopés dans ces langages BCL base class library.
     - Une couche logicielle respectant une spécification nommée CLI common language infrastructure. Responsables de l'execution des applications .NET. cette couche ne connais que le CIL, en conséquence les langages supporté par .NET doivent avoir un compilateur permettant de produire du code CIL. Mirosoft a le CLR
-        
+- Assemblage : exe ou dll. la structure d'un assemblage diffère de celle d'un exe classique.
+-         
